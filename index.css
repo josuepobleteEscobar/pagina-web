@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #292929;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header {
+    background-color: #03a9f4;
+    width: 100%;
+    clear: both;
+    display: table;
+}
+
+.menu {
+    width: 900px;
+    margin: 0 auto;
+    float: left;
+}
+
+img {
+    width: 120px;
+    height: 50px;
+    padding: 8px;
+   
+}
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 25px;
+    padding: 10px;
+    float: left;   
+    position: relative; 
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #444;
+    font-weight: bold;
+}
+
