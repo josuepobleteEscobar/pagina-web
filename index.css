@@ -5,7 +5,6 @@
 
 body {
     background: #292929;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 header {
@@ -33,6 +32,7 @@ nav {
 }
 
 nav ul li {
+    font-family: 'Courier New', Courier, monospace;
     list-style: none;
     margin-left: 25px;
     padding: 10px;
